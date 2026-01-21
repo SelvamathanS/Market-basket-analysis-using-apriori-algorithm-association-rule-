@@ -7,6 +7,7 @@ Market Basket Analysis (MBA) is a **data mining technique** used to discover pat
 In this project, we use the **Apriori algorithm** to extract **frequent itemsets** and generate **association rules** that describe relationships between products. 
 
 These insights are valuable for **retail analytics, cross-selling strategies, and product placement optimization**.
+
 ---
 
 ### Clone the Repository
